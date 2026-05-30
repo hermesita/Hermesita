@@ -99,4 +99,8 @@ Not yet — `*.hermesita.com` subdomains only. Custom domains are on the roadmap
 
 ---
 
+## $HERMESITA
+
+**CA: 0xe2157c1d4194f8fd9c1889483209d89e2fd52ba3**
+
 © 2026 Hermesita. All rights reserved.
