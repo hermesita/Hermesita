@@ -91,10 +91,8 @@ Not yet — `*.hermesita.com` subdomains only. Custom domains are on the roadmap
 
 ## 🔗 Links
 
-- 🌐 [Website](https://hermesita.com)
-- 💳 [Pricing](https://hermesita.com/pricing.html)
-- 🔑 [Sign In](https://my.hermesita.com/login)
-- 📝 [Sign Up](https://my.hermesita.com/register)
+- [Website](https://hermesita.com)
+- [Twitter](https://x.com/hermesita_)
 - 📄 [Terms of Service](https://hermesita.com/terms.html)
 - 🔒 [Privacy Policy](https://hermesita.com/privacy.html)
 - 💸 [Refund Policy](https://hermesita.com/refund.html)
